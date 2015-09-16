@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:04.392821
+#+DATE: 2015-08-30 20:53:06.373228
 #+TITLE: 大乘中觀釋論
 #+PROPERTY: CBETA_ID T30n1567
 #+PROPERTY: ID KR6m0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1567
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION K
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6m0005_T_000-0136a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0005_T_009-0156a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
-
- 《大乘中觀釋論》卷第九¶
+《大乘中觀釋論》卷第九¶
 ¶
 安慧菩薩造¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
@@ -102,11 +101,7 @@
 #+END_VERSE
 」¶
 
-11觀生死品
-:PROPERTIES:
-:head: 觀生死品第十一
-:END:
-¶
+觀生死品第十一¶
 
 復有人言。勝義諦中亦有生死。何以故。如佛
 <pb:KR6m0005_T_009-0156c>¶
@@ -249,11 +244,7 @@
 #+END_VERSE
 」¶
 
-12觀苦品
-:PROPERTIES:
-:head: 觀苦品第十二
-:END:
-¶
+觀苦品第十二¶
 
 復有人言。勝義諦中有彼諸蘊苦所成性。如¶
 佛所言。略說五取蘊。由苦所得故。¶
@@ -382,7 +373,7 @@
 #+BEGIN_VERSE
 「　若有自他作
 　即有共作苦¶
-　今無自他共
+　
 　無因亦非理
 #+END_VERSE
 」¶
@@ -424,11 +415,7 @@
 亦非自他緣法不生。又一切法非無因故。由¶
 是勝義諦中。色等諸法體不可得。¶
 
-13觀行品
-:PROPERTIES:
-:head: 觀行品第十三
-:END:
-¶
+觀行品第十三¶
 
 前品所說破色等蘊。此即亦有對治相違。何¶
 以故。如佛所言。諸苾芻。汝等應當如實了知。¶
