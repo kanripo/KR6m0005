@@ -1,12 +1,12 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:04.310704
+#+DATE: 2015-08-30 20:53:05.790423
 #+TITLE: 大乘中觀釋論
 #+PROPERTY: CBETA_ID T30n1567
 #+PROPERTY: ID KR6m0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1567
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION K
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6m0005_T_000-0136a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0005_T_006-0148a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
@@ -14,8 +14,7 @@
 <pb:KR6m0005_T_006-0148b>¶
 ¶
 ¶
-
- 《大乘中觀釋論》卷第六¶
+《大乘中觀釋論》卷第六¶
 ¶
 安慧菩薩造¶
 西天譯經三藏朝散大夫試鴻臚卿傳¶
@@ -365,7 +364,7 @@
 」¶
 
 釋曰。住者現在過去二法一處同時不生。是¶
-故無住。又離已住未住。住時無體。謂以
+故無住。又離已住末住。住時無體。謂以
 <pb:KR6m0005_T_006-0150b>¶
 勝義諦中無生法可得。從前廣說。悉為證成¶
 無實生法。生法若無。云何有住。¶

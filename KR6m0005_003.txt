@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:04.231060
+#+DATE: 2015-08-30 20:53:05.711700
 #+TITLE: 大乘中觀釋論
 #+PROPERTY: CBETA_ID T30n1567
 #+PROPERTY: ID KR6m0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1567
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION K
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6m0005_T_000-0136a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0005_T_003-0141a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《大乘中觀釋論》卷第三¶
+《大乘中觀釋論》卷第三¶
 ¶
 安慧菩薩造¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
@@ -66,7 +65,7 @@
 」¶
 
 釋曰。若彼去時不住可爾。彼已去者應可住¶
-邪。此亦不然。已去者無別去法。去法已壞。¶
+耶。此亦不然。已去者無別去法。去法已壞。¶
 是故無住。此中無有已去者住。今此住法如¶
 是止已。餘諸過失所說亦然。復次頌言。¶
 
@@ -201,7 +200,7 @@
 #+END_VERSE
 」¶
 
-釋曰。云何二去。一謂因去。知去者故。二謂¶
+釋曰。云何二去。一謂因去。知去者故。一謂¶
 若有去者復用去法。此中止遣。復次頌言。¶
 
 #+BEGIN_VERSE
@@ -245,11 +244,7 @@
 法。諸有分別皆無實體。為證成是義故此品¶
 生。¶
 
-3觀六根品
-:PROPERTIES:
-:head: 觀六根品第三
-:END:
-¶
+觀六根品第三¶
 
 前品止遣一切作者作業作法諸所造作相違
 <pb:KR6m0005_T_003-0142c>¶
