@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:04.287086
+#+DATE: 2015-08-30 20:53:07.274732
 #+TITLE: 大乘中觀釋論
 #+PROPERTY: CBETA_ID T30n1567
 #+PROPERTY: ID KR6m0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1567
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION K
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0005_T_000-0136a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0005_T_005-0146a> 
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《大乘中觀釋論》卷第五¶
+《大乘中觀釋論》卷第五¶
 ¶
 安慧菩薩造¶
 西天譯經三藏朝散大夫試鴻臚卿傳¶
 梵大師賜紫沙門臣法護等奉　詔譯¶
 
-6觀染法染者品
-:PROPERTIES:
-:head: 觀染法染者品第六
-:END:
-¶
+觀染法染者品第六¶
 
 復次有異宗言。於勝義諦中諸界處等性與¶
 無性有所知解。由彼雜染成其有性。如佛所¶
@@ -235,11 +230,7 @@
 釋曰。此中云何。所謂非唯染法染者。非合不¶
 合。諸法亦然。¶
 
-7觀有為品
-:PROPERTIES:
-:head: 觀有為品第七之一
-:END:
-¶
+觀有為品第七之一¶
 
 復次或有人言。勝義諦中有彼貪等諸雜染¶
 法。以有為故。譬如眼等。¶

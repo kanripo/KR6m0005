@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:04.203619
+#+DATE: 2015-08-30 20:53:07.217634
 #+TITLE: 大乘中觀釋論
 #+PROPERTY: CBETA_ID T30n1567
 #+PROPERTY: ID KR6m0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1567
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION K
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0005_T_000-0136a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0005_T_002-0138b> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大乘中觀釋論》卷第二¶
+《大乘中觀釋論》卷第二¶
 ¶
 安慧菩薩造¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
@@ -192,11 +191,7 @@
 皆非勝義諦境。今此品中皆為證成如。是義¶
 故。¶
 
-2觀去來品
-:PROPERTIES:
-:head: 觀去來品第二之一
-:END:
-¶
+觀去來品第二之一¶
 
 前品已止生義。今當次第。勝義諦中諸有物¶
 體。如是總聚差別之義。而悉止遣。餘有所觀¶

@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:04.264155
+#+DATE: 2015-08-30 20:53:07.257454
 #+TITLE: 大乘中觀釋論
 #+PROPERTY: CBETA_ID T30n1567
 #+PROPERTY: ID KR6m0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1567
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION K
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0005_T_000-0136a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0005_T_004-0143c> 
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大乘中觀釋論》卷第四¶
+《大乘中觀釋論》卷第四¶
 ¶
 安慧菩薩造¶
 西天譯經三藏朝散大夫試鴻臚卿傳¶
 梵大師賜紫沙門臣法護等奉　詔譯¶
 
-4觀五蘊品
-:PROPERTIES:
-:head: 觀五蘊品第四
-:END:
-¶
+觀五蘊品第四¶
 
 次第此品今當止遣。彼十二處諸有所作。或¶
 有異宗現所安立。謂於勝義諦中實有內外¶
@@ -207,11 +202,7 @@
 切法無所得義而有所成。此中品初說蘊攝¶
 等。應知如是諸蘊無性無有所成。¶
 
-5觀六界品
-:PROPERTIES:
-:head: 觀六界品第五
-:END:
-¶
+觀六界品第五¶
 
 復次異宗所計。謂勝義諦中有地水火風識¶
 等諸界所成士夫。譬如虛空。彼引證云。如佛¶
